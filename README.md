@@ -20,6 +20,6 @@
 ### :bar_chart: Stats
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FacundoXu&theme=outrun&show_icons=true" alt="My GitHub Statistics" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoXu&layout=compact&theme=outrun" alt="My Programming Languages" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FacundoXu&theme=outrun&show_icons=true" alt="My GitHub Statistics" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoXu&layout=compact&theme=outrun" alt="My Programming Languages" height="200" />
 </div>
