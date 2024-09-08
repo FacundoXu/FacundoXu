@@ -19,7 +19,4 @@
 
 ### :bar_chart: Stats
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FacundoXu&theme=outrun&show_icons=true" alt="My GitHub Statistics" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoXu&layout=compact&theme=outrun" alt="Top Langs" height="200" />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FacundoXu&theme=outrun&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoXu&theme=outrun&layout=compact)
