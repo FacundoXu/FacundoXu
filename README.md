@@ -3,7 +3,7 @@
 * 🎓 I'm Facundo Xu, a Software Engineering student at the University of Buenos Aires (UBA)
 * 🎯 I'm interested in Data Science and Game Developing
 * ✉️ facundoxu45@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/facundoxu)
+* 📫 [LinkedIn](linkedin.com/in/facundo-xu)
 
 ---
 
