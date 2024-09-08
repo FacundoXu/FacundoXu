@@ -1,5 +1,5 @@
 ### Hello, I'm Facundo Xu 👋
-
+I'm a Software Engineering student at the University of Buenos Aires (UBA)
 ---
 
 ### :toolbox: Languages and Tools
