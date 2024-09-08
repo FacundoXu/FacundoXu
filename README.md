@@ -4,7 +4,7 @@
 * 🎯 I'm interested in Data Science and Game Developing
 * ✉️ fxu@fi.uba.ar
 
-* 📫 [LinkedIn](linkedin.com/in/facundo-xu)
+* 📫 [LinkedIn](https://www.linkedin.com/in/facundo-xu)
 
 ---
 
