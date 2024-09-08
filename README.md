@@ -19,4 +19,4 @@
 
 ### :bar_chart: Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FacundoXu&theme=outrun&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoXu&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FacundoXu&theme=outrun&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoXu&theme=outrun&layout=compact)
