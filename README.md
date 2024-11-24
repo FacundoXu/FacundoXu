@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 * 🎓 I'm Facundo Xu, a Software Engineering student at the University of Buenos Aires (UBA)
-* 🎯 I'm interested in Data Science, Machine Learning, and Game Development
+* 🎯 I'm interested in Data Science and Game Development
 * ✉️ fxu@fi.uba.ar
 
 * 📫 [LinkedIn](https://www.linkedin.com/in/facundo-xu)
